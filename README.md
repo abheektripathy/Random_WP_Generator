@@ -1,16 +1,10 @@
 # RandomWordGenerator
 
-A new Flutter project.
+Pretty obvious eh?
+Generates random word pairs while giving an option to save our fav. wordpairs and display them on a seperate ui screen.
 
-## Getting Started
+## App Screenshots
 
-This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+<img width="377" alt="Screen Shot 2022-07-04 at 11 38 18 AM" src="https://user-images.githubusercontent.com/90976669/177091876-f2494663-cedc-4d5d-a008-2a2a18a4de85.png"> 
+<img width="377" alt="Screen Shot 2022-07-04 at 11 38 55 AM" src="https://user-images.githubusercontent.com/90976669/177091933-58525b96-2d7e-4868-8a92-e704236b593f.png">
