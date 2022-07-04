@@ -1,4 +1,4 @@
-# RandomWordGenerator
+# RandomWordPairGenerator
 
 Pretty obvious eh?
 Generates random word pairs while giving an option to save our fav. wordpairs and display them on a seperate ui screen.
